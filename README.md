@@ -26,12 +26,5 @@ This project can be used as a part of any web application or website that requir
 ## Contributing
 Contributions are welcome! If you have suggestions to improve the icons or add new features, please feel free to fork this repository, make changes, and submit a pull request.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Icons and logos are owned by their respective trademark holders.
-- Special thanks to all contributors and users of this project.
-
 Feel free to reach out for any questions or suggestions!
 
